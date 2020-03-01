@@ -1,6 +1,6 @@
 {
-"companyName": "devComp",
-"productName": "project_1",
+"companyName": "A7",
+"productName": "LettersHero",
 "productVersion": "0.1",
 "dataUrl": "project_1_webgl_build.data.unityweb",
 "wasmCodeUrl": "project_1_webgl_build.wasm.code.unityweb",
