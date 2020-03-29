@@ -1,7 +1,7 @@
 {
 "companyName": "AdvComPro2019A7",
 "productName": "Letter's Hero",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "Letter's Hero Final WebGL.data.unityweb",
 "wasmCodeUrl": "Letter's Hero Final WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "Letter's Hero Final WebGL.wasm.framework.unityweb",
